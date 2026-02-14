@@ -1,0 +1,9 @@
+modLoader="javafml"
+loaderVersion="[36,)"
+license="MIT"
+
+[[mods]]
+modId="mace"
+version="1.0.0"
+displayName="Mace Mod"
+description="Adds a powerful Mace weapon with extra fall damage."

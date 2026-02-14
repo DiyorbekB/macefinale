@@ -1,0 +1,10 @@
+{
+  "mace_hit": {
+    "sounds": [
+      {
+        "name": "mace:mace_hit",
+        "stream": false
+      }
+    ]
+  }
+}
